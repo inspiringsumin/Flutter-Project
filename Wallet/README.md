@@ -1,6 +1,6 @@
-# application_1
+# Wallet
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
